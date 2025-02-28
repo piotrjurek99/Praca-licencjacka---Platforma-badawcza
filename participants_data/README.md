@@ -1,0 +1,1 @@
+W poniższym folderze znajdują się oznaczenia siatki na dany obraz u każdego z uczestników badania
