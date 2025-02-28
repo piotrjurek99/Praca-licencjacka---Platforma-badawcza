@@ -1,0 +1,1 @@
+Zrzuty ekranu obrazujące poszczególne elementy platformy internetowej
