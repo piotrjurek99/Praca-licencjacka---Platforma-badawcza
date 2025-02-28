@@ -1,2 +1,3 @@
-# Praca-licencjacka---Platforma-badawcza
-Kod zawiera zaprojektowaną platformę webową, przekierowującą informacje z wykonanych działań do serwera, a następnie do bazy danych MongoDB. Jednocześnie zapisuje zrzuty ekranu poszczególnych odpowiedzi i zapisuje je w oddzielnych folderach. 
+# Praca-licencjacka-Platforma-badawcza
+
+Powyższy projekt miał na celu zaprojektowanie platformy webowej na rzecz badania: Analiza percepcji obrazów modyfikowanych za pomocą sztucznej inteligencji. Platforma web, otwierana z poziommu lokalnego lub poprzez udostępnianie tunelu za pomocą Ngrok pozyskuje informacje uczestnków nt. wypełnionych elementów formularza, odpowiedzi kwestionariusza Skróconej Skali Domknięcia Poznawczego, deklarowanej oceny modyfikacji SI, poszczególne oznaczenia siatki kwadratów, wybór jednej z czterech odpowiedzi dotyczącej pewności wyboru, oraz mierzony czas wykonania każdego z zadań. Dane zapisywane są na każdego indywidualnego użytkownika oraz każdy poszczrgólny obraz. Wszystkie informacje przekazywane są z poziomu serwera do bazy MongoDB, a zrzuty ekranu oznaczeń siatki zapisywane są w oddzielnym folderze lokalnym.
