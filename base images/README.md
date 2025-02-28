@@ -1,0 +1,1 @@
+Obrazy wykorzystane w badaniu podzielone na każdą z kategorii
