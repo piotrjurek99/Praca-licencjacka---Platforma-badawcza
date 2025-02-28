@@ -1,1 +1,1 @@
-W poniższym folderze znajdują się oznaczenia siatki na dany obraz u każdego z uczestników badania
+W poniższym folderze znajdują się przykładowe oznaczenia siatki na dany obraz mierzonych dla poszczególnych uczestników badania
